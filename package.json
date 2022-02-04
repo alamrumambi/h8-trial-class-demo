@@ -1,0 +1,25 @@
+{
+  "name": "h8-trial-class-demo",
+  "version": "1.0.0",
+  "description": "demo express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alamrumambi/h8-trial-class-demo.git"
+  },
+  "author": "alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alamrumambi/h8-trial-class-demo/issues"
+  },
+  "homepage": "https://github.com/alamrumambi/h8-trial-class-demo#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "pg": "^8.7.1",
+    "sequelize": "^6.15.0"
+  }
+}
